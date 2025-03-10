@@ -1,6 +1,24 @@
 # QuizMaster
 
+## About This Project
+This project is now maintained and improved by Priyank Solanki.
+
 QuizMaster is a comprehensive quiz application that allows users to create, take, and manage quizzes. The project is built using Node.js, Express, MongoDB for the backend, and React for the frontend. It provides features such as user authentication, quiz management, progress tracking, and viewing detailed quiz statistics.
+# QuizMaster
+A fun and interactive quiz game that tests your knowledge!
+
+## About This Project
+Originally developed by Vishal Kumar, this project is now maintained and improved by **Priyank Solanki**.
+
+## Features
+- Multiple-choice quizzes
+- Timer-based challenges
+- Score tracking
+- And more exciting features coming soon!
+
+## Maintainer
+**Priyank Solanki**  
+[GitHub Profile](https://github.com/PriyankSSolanki)
 
 ## Table of Contents
 
@@ -198,7 +216,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or inquiries, please contact [vishalverma9572@gamail.com].
+For any questions or inquiries, please contact [priyankssolanki2901@gmail.com].
 or Generate Issues.
 
 ---
